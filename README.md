@@ -1,3 +1,5 @@
+O repositório original foi deletado pela criadora dele, então eu restaurei ele para o meu GitHub
+
 ## 📚 **Trabalho 2 - Banco de Dados 2**  
 **Curso:** Engenharia de Software  
 **Universidade:** Universidade Tecnológica Federal do Paraná - Câmpus Dois Vizinhos  
